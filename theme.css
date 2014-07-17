@@ -1,0 +1,29 @@
+#myHead {
+	text-align:right;
+	color: blue;
+	top:-5;
+	}
+
+ul{
+	list-style-type: none;
+}
+li{
+	display:inline;
+}
+
+#google{
+	font-size:72px;
+	text-align:center;
+}
+#searchBar{
+	text-align:center;
+}
+#bottom{
+bottom:0;
+font-size:10pt;
+height:35px;
+position:absolute;
+width:99.2%;
+background-color:#DBDBD4;
+border-top: 1px solid #686850;
+}
